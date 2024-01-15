@@ -15,7 +15,7 @@ class Restaurante:
     def exibir_restaurante(cls):
         print(f'{"Nome do Restaurante".ljust(25)} | {"Categoria".ljust(20)} | {"Status"}')
         
-        for restaurante in Restaurante.lista_restaurantes:
+        for restaurante in cls.lista_restaurantes:
             print(f'{restaurante._nome.ljust(25)} | {restaurante._categoria.ljust(20)} | {restaurante.estado}')
             
     @property
