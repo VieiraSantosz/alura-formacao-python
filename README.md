@@ -3,9 +3,9 @@
 Aprenda a linguagem Python, mergulhando no paradigma da orientação a objetos.
 
 Módulos abordados ao longo da formação:
-- Entendendo a linguagem Python
-- Orientação a objetos
-- Ambientes virtuais, arquivos e APIs
+1. Entendendo a linguagem Python
+2. Orientação a objetos
+3. Ambientes virtuais, arquivos e APIs
 
 
 ### Módulo 1 - Entendendo a linguagem Python
@@ -14,4 +14,11 @@ Conteúdo abordado:
   * Módulos e Funções
   * Lista, Laços e Exceções
   * Dicionários
+
+### Módulo 2 - Orientação a objetos
+Conteúdo abordado:
+  * Classes
+  * Construtor e instanciando objetos
+  * Property e métodos de classe
+  * Importando classe e composição
   * 
