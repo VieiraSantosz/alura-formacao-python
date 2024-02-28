@@ -2,4 +2,4 @@
 
 A Formação Python abordou 3 módulos:
 
-# Módulo 1 - Entendendo a linguagem Python
+## Módulo 1 - Entendendo a linguagem Python
