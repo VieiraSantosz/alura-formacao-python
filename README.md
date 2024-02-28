@@ -9,3 +9,5 @@ Módulos abordados ao longo da formação:
 
 
 ### Módulo 1 - Entendendo a linguagem Python
+Conteúdo abordado:
+  * Manipulação de Strings
