@@ -21,4 +21,12 @@ Conteúdo abordado:
   * Construtor e instanciando objetos
   * Property e métodos de classe
   * Importando classe e composição
-  * 
+
+### Módulo 3 - Ambientes virtuais, arquivos e API's
+Conteúdo abordado:
+  * Herança
+  * Polimorfismo e método abstrato
+  * Ambientes virtuais
+  * Requisições, JSON e Arquivos
+  * FastAPI
+
