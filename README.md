@@ -8,4 +8,4 @@ Módulos abordados ao longo da formação:
 - Ambientes virtuais, arquivos e APIs
 
 
-## Módulo 1 - Entendendo a linguagem Python
+### Módulo 1 - Entendendo a linguagem Python
