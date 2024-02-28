@@ -1,3 +1,5 @@
-# Alura | Python
+# Formação: Aprenda a programar em Python com Orientação a Objetos
 
-Atividades / Exercícios realizados ao longo do curso de Python da Alura.
+A Formação Python abordou 3 módulos:
+
+# Módulo 1 - Entendendo a linguagem Python
